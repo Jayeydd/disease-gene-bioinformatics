@@ -39,10 +39,9 @@
 |---|---|
 | Annotation track used | MANE Select Plus Clinical / RefSeq Curated |
 | Selected transcript | NM_000138.5 (MANE Select) |
-| Number of exons | ~65 |
+| Number of exons | 65 |
 | Multiple isoforms visible? | Yes — GENCODE shows 5 filtered; RefSeq has separate rows too |
-| Exon definition | DNA segment retained in mature mRNA; appears as thick/thin boxes |
-| Intron definition | Removed during splicing; thin lines connecting exon boxes |
+| Difference between Exon and Intron | Exons are the coding regions of a gene that carry the instructions for making proteins, while introns are the non-coding regions that sit between exons and get cut out |
 | Intron vs exon length | Introns are much longer — exons are small boxes separated by long lines |
 
 **Screenshot 2 — Gene Structure:**
