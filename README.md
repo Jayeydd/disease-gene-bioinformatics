@@ -31,3 +31,19 @@
 
 **Screenshot 1 — Gene Location:**
 ![Gene Location](images/01_gene_location.jpg)
+
+-----------------
+## Part C — Gene Structure: Exons, Introns, Transcripts
+
+| Item | Answers |
+|---|---|
+| Annotation track used | MANE Select Plus Clinical / RefSeq Curated |
+| Selected transcript | NM_000138.5 (MANE Select) |
+| Number of exons | ~65 |
+| Multiple isoforms visible? | Yes — GENCODE shows 5 filtered; RefSeq has separate rows too |
+| Exon definition | DNA segment retained in mature mRNA; appears as thick/thin boxes |
+| Intron definition | Removed during splicing; thin lines connecting exon boxes |
+| Intron vs exon length | Introns are much longer — exons are small boxes separated by long lines |
+
+**Screenshot 2 — Gene Structure:**
+![Gene Structure](images/02_gene_structure.jpg)
