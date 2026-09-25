@@ -30,4 +30,4 @@
 | Approximate gene size | ~237.4 kbp (237,397 bp) |
 
 **Screenshot 1 — Gene Location:**
-![Gene Location](images/01_gene_location.png)
+![Gene Location](images/01_gene_location.jpg)
