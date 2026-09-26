@@ -48,10 +48,10 @@
 ![Gene Structure](images/02_gene_structure.jpg)
 
 ---------
----
+
 ## Part D — Annotation Tracks, ClinVar Variants & Conservation
 
-| Item | Your Answer |
+| Item | Answers |
 |---|---|
 | Annotation tracks displayed | MANE Select Plus Clinical, RefSeq Curated, GENCODE V50, OMIM Genes, ClinVar Variants, ClinVar SNVs, ClinVar interp, Cons 100 Verts |
 | ClinVar variants visible | Yes — numerous red bars and red circles indicate pathogenic/likely pathogenic variants associated with FBN1 |
@@ -63,3 +63,25 @@
 
 **Screenshot 3 — ClinVar & Conservation Tracks:**
 ![ClinVar and Conservation Tracks](images/03_tracks.jpg)
+
+---
+## Part E — ClinVar Variant Details
+
+| Item | Recorded Information |
+|---|---|
+| Selected ClinVar Variant ID | VCV000146334 |
+| Genome Assembly | GRCh38 / hg38 |
+| Genomic Coordinates | chr15:47460844–52494222 |
+| Cytogenetic Location | 15q21.1–q21.2 |
+| Gene Symbol | FBN1 (Fibrillin 1) |
+| Variant Classification | Copy Number Variant — **Deletion / Loss** |
+| Variant Size | ~5,033,379 bp (5.0 Mb) |
+| Clinical Significance | **Pathogenic** |
+| Associated Phenotype | Marfan syndrome |
+| Mechanism of Pathogenicity | Large gene deletion removes substantial portion of FBN1 → haploinsufficiency — insufficient functional fibrillin-1 → weakened extracellular matrix → Marfan features |
+| Inheritance Pattern | Autosomal Dominant — one altered copy causes disease |
+| Submission/Review Status | Reported Feb 2011; 1 submitter; classification: Pathogenic |
+
+**Screenshot 4 — ClinVar Variant Details:**
+![ClinVar Variant VCV000146334](images/04_Clinvar_variant.jpg)
+
