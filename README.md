@@ -85,3 +85,34 @@
 **Screenshot 4 — ClinVar Variant Details:**
 ![ClinVar Variant VCV000146334](images/04_clinvar_variant.jpg)
 
+---
+## Part F — Variant Position & Functional Impact in UCSC
+
+| Question | Answer |
+|---|---|
+| a. Variant location relative to FBN1 | Spans the entire FBN1 gene locus — coordinates chr15:47460844–52494222 (GRCh38/hg38). Covers the gene from upstream/promoter region through most exons to downstream sequence. |
+| b. Genomic region classification | Not limited to one region — this copy-number deletion **encompasses multiple exons, all intervening introns, 5' and 3' flanking/regulatory regions** of FBN1. |
+| c. Coding vs non-coding involvement | Affects **both**: removes protein-coding exons as well as non-coding introns, untranslated regions, and regulatory sequences. |
+| d. Predicted effect on gene/gene product | **Loss-of-function via deletion**: ~5.0 Mb deletion eliminates a large portion of the FBN1 gene. Transcription cannot produce a full functional mRNA; any truncated product is non-functional. Result = **haploinsufficiency** — one functional copy absent → insufficient fibrillin-1 protein → impaired extracellular matrix integrity → Marfan syndrome. |
+| e. Additional evidence to confirm causation | • Confirm deletion breakpoints and that FBN1 coding sequence is lost (WGS/CGH)<br>• Show variant segregates with disease in family members<br>• Demonstrate reduced/absent fibrillin-1 expression in patient cells/tissue<br>• Exclude other pathogenic FBN1 variants in trans<br>• Corroborate with published literature and independent case reports |
+
+**Screenshot 5 — Variant in Genome Context:**
+![Variant Genomic Position](images/05_variant_position.jpg)
+
+---
+## Part G — Short Reflection
+
+**1. What did UCSC show about your gene not obvious from reading?**
+UCSC revealed that FBN1 is an extremely large gene — 65 exons separated by very long introns — far bigger and more spread out than just reading the name suggests. I also saw that coding exons are highly conserved across vertebrates, while introns change freely, showing which regions are functionally critical.
+
+**2. Why is exact genomic location useful?**
+It pinpoints whether a variant falls in an exon, intron, UTR, or regulatory sequence. This directly suggests how it might affect the gene — changing protein sequence, splicing, or expression. Exact coordinates also let researchers compare variants between patients and link findings across studies.
+
+**3. Limitation of predicting effect from location only?**
+Location alone cannot confirm functional impact. A coding change might not harm protein function, while a non-coding variant could disrupt splicing or regulation. You also cannot determine protein expression levels or in vivo behavior from position alone.
+
+**4. Most interesting feature observed?**
+Conservation peaks aligned perfectly with exon positions — like a biological marker of importance. This overlapped with where pathogenic ClinVar variants cluster, clearly showing that the most preserved DNA regions are exactly where disease-causing mutations occur in FBN1.
+
+
+
