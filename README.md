@@ -14,6 +14,7 @@
 
 ## Part A. Create Your Github Activity Record
 
+**Github link:** https://github.com/Jayeydd/disease-gene-bioinformatics
 
 ---------------
 
