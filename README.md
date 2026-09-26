@@ -83,5 +83,5 @@
 | Submission/Review Status | Reported Feb 2011; 1 submitter; classification: Pathogenic |
 
 **Screenshot 4 — ClinVar Variant Details:**
-![ClinVar Variant VCV000146334](images/04_Clinvar_variant.jpg)
+![ClinVar Variant VCV000146334](images/04_clinvar_variant.jpg)
 
